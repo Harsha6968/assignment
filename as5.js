@@ -1,4 +1,4 @@
-let a=99;
+let a=9;
 if(a>=100 && a<=999){
     console.log("it is a three digit number")
 }else{

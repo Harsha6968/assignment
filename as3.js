@@ -1,4 +1,4 @@
-let a=-234;
+let a=100000;
 if(a>0){
     console.log("it is a positive number")
 }else if(a==0){

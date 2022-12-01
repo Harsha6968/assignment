@@ -1,4 +1,4 @@
-let a=29;
+let a=209;
 if(a%3==0){
     console.log("it is a multiple of 3")
 }else{
