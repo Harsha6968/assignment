@@ -1,5 +1,5 @@
-let a=1088;
-let b=200;
+let a=10;
+let b=20000;
 if(a>b){
     console.log("a is greatest")
 }else{

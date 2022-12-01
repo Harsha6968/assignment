@@ -1,5 +1,5 @@
 let a=1;
-let b=90;
+let b=0;
 let c=30;
 if(a<b && a<c){
     console.log("a is smallest")
