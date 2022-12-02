@@ -5,6 +5,5 @@ for(let i=0;i<=a.length;i++)
         let x=a[i];
         a[i]=a[j];
         a[j]=x;
-    }
+}
 console.log(a)
-
